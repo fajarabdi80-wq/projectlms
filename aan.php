@@ -20,7 +20,7 @@ foreach ($bumbu_dasar as $bumbu) {
 echo "</ul>";
 
 // Uji coba operasi matematika sederhana
-$stok_bawang = 50;
+
 $terpakai = 15;
 $sisa = $stok_bawang - $terpakai;
 
